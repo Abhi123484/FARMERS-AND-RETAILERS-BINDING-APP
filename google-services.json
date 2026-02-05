@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "260225059509",
+    "project_id": "farmersretailersapp",
+    "storage_bucket": "farmersretailersapp.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:260225059509:android:84c1eded4dab4769b84cfc",
+        "android_client_info": {
+          "package_name": "com.farmers.retailers.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB50W_4nQBUvqCaRu3chp1f0Yr7tdehyg4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
